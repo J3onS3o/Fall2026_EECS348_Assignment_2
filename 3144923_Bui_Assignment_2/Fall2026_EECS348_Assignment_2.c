@@ -14,7 +14,7 @@
  *                 COUNT
  * Output:       Terminal output for NEXT (sender/subject/date) and
  *               COUNT (remaining unread email count).
- * Collaborators: Generated code with ChatGPT and Gemini, Claude for helping to debug and optimize
+ * Collaborators: Generated code with ChatGPT (chatgpt.com) and Gemini (gemini.google.com), Claude (claude.ai) for helping to debug and optimize
  * Author:       Josselyn T. Bui
  * Created:      09-17-2026
  * Revised:      09-17-2026
